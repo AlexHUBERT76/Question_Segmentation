@@ -23,6 +23,12 @@ AND p.Score > 5
 AND len(p.Tags) > 0
 
 
+
+Github repository : https://github.com/AlexHUBERT76/Question_Segmentation
+
+Link to the api : http://13.38.111.41:8000/docs  (will be discontinued after the 04/06/2023)
+
+
 ## Notebook 1 : Data preparation and analysis
 
 In this first notebook the extracted data is processed and analysed.
